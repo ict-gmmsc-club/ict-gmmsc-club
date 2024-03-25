@@ -15,7 +15,7 @@ As we continue to grow and develop, we have started building our portfolio. This
 We welcome all students interested in technology to join our club. Whether you are a beginner looking to learn or an experienced coder wanting to contribute, there's a place for you in the GMMSC ICT Club. Together, we can make a difference in the world of technology.
 
 ## Contact Us
-Feel free to reach out to me for any inquiries or collaborations.
+Feel free to reach out to us for any inquiries or collaborations.
 - Website: [ict.gmmsc.club](https://ict.gmmsc.club) 
 - Email: [mail@gmmsc.club](mailto:your-email@example.com)
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/club.ict.gmmsc)
